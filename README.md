@@ -13,3 +13,8 @@ Key Features:
 
 Industry and Regions of Operation
 -  Our business will operate within the legal cannabis accessories market, specifically importing products from North America and exporting them to the Asia Pacific region. We will focus on establishing strong relationships with licensed medical facilities and authorized sellers in countries where the legal framework supports the sale and distribution of our products.
+
+Some of the big players include:
+- Greenlane Holdings: A major North American company that focuses on the distribution of accessories, vaporizers, and other related products.
+- High Tide: A Canadian company that is a huge retailer of accessories and has a growing e-commerce presence in North America and Europe.
+- Storz & Bickel: Owned by Canopy Growth, this is a premium brand known for high-quality vaporizers.
