@@ -3,4 +3,8 @@ Incorporation Details and Compliance Checklist.
 Ressource:
 - Thailand: https://www.trade.gov/country-commercial-guides/thailand-import-requirements-and-documentation 
 - Canada: https://www.cbsa-asfc.gc.ca/import/guide-eng.html
-- Australia: https://www.abf.gov.au/importing-exporting-and-manufacturing/importing/how-to-import/requirements
+
+
+Legal entities (corps):
+- Thailand:
+- Canada:
